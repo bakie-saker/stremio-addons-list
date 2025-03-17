@@ -38,6 +38,7 @@ module.exports = {
 	// output folder for build
 	"build-dir": "./out",
 	"blockedManifests": [
-  	"https://comet.elfhosted.com/manifest.json",
+  	  "https://comet.elfhosted.com/manifest.json",
+	  "https://comet.stremiofr.com/manifest.json",
 	]
 }
