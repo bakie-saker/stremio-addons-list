@@ -4,9 +4,9 @@ module.exports = {
 	// env vars
 	"DISCORD_WEBHOOK": process.env.DISCORD_WEBHOOK,
 	"GITHUB_TOKEN": process.env.TOKEN,
-	// for repo: danamag/stremio-addons-list
+	// for repo: bakie-saker/stremio-addons-list
 	"repository": process.env.REPO || "stremio-addons-list",
-	"author": process.env.REPO_AUTHOR || "danamag",
+	"author": process.env.REPO_AUTHOR || "bakie-saker",
 	"netlify-domain": process.env.DOMAIN || "stremio-addons.com",
 	"page-title": "Stremio Community Addons List",
 	// images are located in ./resources/
